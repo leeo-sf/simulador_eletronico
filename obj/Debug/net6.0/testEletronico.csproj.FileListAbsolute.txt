@@ -1,0 +1,15 @@
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\bin\Debug\net6.0\testEletronico.exe
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\bin\Debug\net6.0\testEletronico.deps.json
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\bin\Debug\net6.0\testEletronico.runtimeconfig.json
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\bin\Debug\net6.0\testEletronico.dll
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\bin\Debug\net6.0\testEletronico.pdb
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.AssemblyInfo.cs
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.dll
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\refint\testEletronico.dll
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.pdb
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\testEletronico.genruntimeconfig.cache
+C:\Users\leona\Documents\projetos\testEletronico\testEletronico\obj\Debug\net6.0\ref\testEletronico.dll
